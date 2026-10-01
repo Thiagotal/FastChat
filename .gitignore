@@ -1,0 +1,7 @@
+# Não versionar a chave de API real
+.env
+
+# Padrões comuns do Flutter
+.dart_tool/
+.packages
+build/
